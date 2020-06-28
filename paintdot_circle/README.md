@@ -1,5 +1,5 @@
 # paintdot_circle
-[The finished animation](https://imgur.com/a/aDG5WKB)
+[The finished animation](https://imgur.com/a/bwkjw9J)
 
 A stylised ( <- an artsy word that sounds better than "I couldn't be bothered to look up metaballs") version of [this post on /r/LoadingIcons](https://www.reddit.com/r/LoadingIcons/comments/hgmfmb/this_would_make_a_great_loading_icon/) that I made after a lot of people expected me to do. Probably not quite what you people expected, but I imagine this one as a small looping icon in the bottom corner of a game loading screen. 
 
